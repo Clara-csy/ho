@@ -9,6 +9,7 @@ public class costList {
     private String Xiangxi;
 
 
+
     public costList(String id, String sheng, String shi, String qu, String xiangxi) {
         super();
         this.id = id;

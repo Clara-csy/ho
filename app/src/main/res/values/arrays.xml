@@ -2,10 +2,9 @@
 <resources>
     <string-array name="gradeArray" >
         <item>北京</item>
-        <item>保定</item>
+        <item>四川</item>
         <item>天津</item>
         <item>深圳</item>
-        <item>四川</item>
         <item>贵州</item>
         <item>云南</item>
         <item>西藏</item>
@@ -15,7 +14,27 @@
         <item>宁夏</item>
         <item>新疆</item>
     </string-array>
+
     <string-array name="shi" >
+        <item>东城区</item>
+        <item>西城区</item>
+        <item>崇文区</item>
+        <item>宣武区</item>
+        <item>朝阳区</item>
+        <item>丰台区</item>
+        <item>石景山区</item>
+        <item>海淀区</item>
+        <item>门头沟区</item>
+        <item>房山区</item>
+        <item>通州区</item>
+        <item>顺义区</item>
+        <item>昌平区</item>
+        <item>大兴区</item>
+        <item>怀柔区</item>
+        <item>平谷区</item>
+        <item>密云县</item>
+        <item>延庆县</item>
+
         <item>成都</item>
         <item>自贡</item>
         <item>攀枝花</item>
@@ -38,24 +57,36 @@
         <item>甘孜</item>
         <item>凉山</item>
 
-    <item>东城区</item>
-    <item>西城区</item>
-    <item>崇文区</item>
-    <item>宣武区</item>
-    <item>朝阳区</item>
-    <item>丰台区</item>
-    <item>石景山区</item>
-    <item>海淀区</item>
-    <item>门头沟区</item>
-    <item>房山区</item>
-    <item>通州区</item>
-    <item>顺义区</item>
-    <item>昌平区</item>
-    <item>大兴区</item>
-    <item>怀柔区</item>
-    <item>平谷区</item>
-    <item>密云县</item>
-    <item>延庆县</item>
+        <item>和平区</item>
+        <item>河东区</item>
+        <item>河西区</item>
+        <item>南开区</item>
+        <item>河北区</item>
+        <item>红桥区</item>
+        <item>塘沽区</item>
+        <item>汉沽区</item>
+        <item>大港区</item>
+        <item>东丽区</item>
+        <item>西青区</item>
+        <item>津南区</item>
+        <item>北辰区</item>
+        <item>武清区</item>
+        <item>宝坻区</item>
+        <item>宁河县</item>
+        <item>静海县</item>
+        <item>蓟县</item>
+
+        <item>贵阳</item>
+        <item>六盘水</item>
+        <item>遵义</item>
+        <item>安顺</item>
+        <item>铜仁</item>
+        <item>黔西南</item>
+        <item>毕节</item>
+        <item>黔东南</item>
+        <item>黔南</item>
+
+
     </string-array>
     <string-array name="qu" >
         <item>锦江区</item>
@@ -77,5 +108,15 @@
         <item>彭州</item>
         <item>邛崃</item>
         <item>崇州</item>
+
+        <item>兴义市</item>
+        <item>兴仁市</item>
+        <item>安龙县</item>
+        <item>贞丰县</item>
+        <item>普安县</item>
+        <item>晴隆县</item>
+        <item>望谟县</item>
+
+
     </string-array>
 </resources>

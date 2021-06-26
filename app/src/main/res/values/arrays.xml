@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gradeArray" >
+        <item>北京</item>
+        <item>保定</item>
+        <item>天津</item>
+        <item>深圳</item>
+        <item>四川</item>
+        <item>贵州</item>
+        <item>云南</item>
+        <item>西藏</item>
+        <item>陕西</item>
+        <item>甘肃</item>
+        <item>青海</item>
+        <item>宁夏</item>
+        <item>新疆</item>
+    </string-array>
+    <string-array name="shi" >
+        <item>成都</item>
+        <item>自贡</item>
+        <item>攀枝花</item>
+        <item>泸州</item>
+        <item>德阳</item>
+        <item>绵阳</item>
+        <item>广元</item>
+        <item>遂宁</item>
+        <item>内江</item>
+        <item>乐山</item>
+        <item>南充</item>
+        <item>眉山</item>
+        <item>宜宾</item>
+        <item>广安</item>
+        <item>达州</item>
+        <item>雅安</item>
+        <item>巴中</item>
+        <item>资阳</item>
+        <item>阿坝</item>
+        <item>甘孜</item>
+        <item>凉山</item>
+
+    <item>东城区</item>
+    <item>西城区</item>
+    <item>崇文区</item>
+    <item>宣武区</item>
+    <item>朝阳区</item>
+    <item>丰台区</item>
+    <item>石景山区</item>
+    <item>海淀区</item>
+    <item>门头沟区</item>
+    <item>房山区</item>
+    <item>通州区</item>
+    <item>顺义区</item>
+    <item>昌平区</item>
+    <item>大兴区</item>
+    <item>怀柔区</item>
+    <item>平谷区</item>
+    <item>密云县</item>
+    <item>延庆县</item>
+    </string-array>
+    <string-array name="qu" >
+        <item>锦江区</item>
+        <item>青羊区</item>
+        <item>金牛区</item>
+        <item>武侯区</item>
+        <item>成华区</item>
+        <item>龙泉驿区</item>
+        <item>青白江区</item>
+        <item>新都区</item>
+        <item>温江区</item>
+        <item>金堂县</item>
+        <item>双流县</item>
+        <item>郫县</item>
+        <item>大邑县</item>
+        <item>蒲江县</item>
+        <item>新津县</item>
+        <item>都江堰</item>
+        <item>彭州</item>
+        <item>邛崃</item>
+        <item>崇州</item>
+    </string-array>
+</resources>

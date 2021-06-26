@@ -1,0 +1,13 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<actions>
+    <string-array name="provarray">
+     <item>北京市</item>
+     <item>保定市</item>
+     <item>天津市</item>
+     <item>深圳市</item>
+    </string-array>
+
+
+
+
+</actions>

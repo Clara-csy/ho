@@ -21,7 +21,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import java.util.List;
 
-public class AddressListActivity<retList> extends ListActivity implements AdapterView.OnItemLongClickListener {
+public class AddressListActivity extends ListActivity implements AdapterView.OnItemLongClickListener {
     private static final String TAG =null;
    // String data[]={"四川成都温江区柳台大道555号","贵州贵阳花溪区甲秀南路西","北京东城区东华门街道22号"};
     Handler handler;
@@ -64,15 +64,16 @@ public class AddressListActivity<retList> extends ListActivity implements Adapte
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
                                 //costList costlist = costList.get(position);
-                                if(db.deleteData(list_item.get(position))){
-                                    list_item.remove(position);
-                                    adapter.notifyDataSetChanged();
-                                    Toast.makeText(AddressListActivity.this,"删除成功",Toast.LENGTH_LONG).show();
-                                }
-
+//                                if(db.deleteData(list_item.get( position ))){
+//                                    Toast.makeText(AddressListActivity.this,"删除成功",Toast.LENGTH_LONG).show();
+//
+//                                    list_item.remove(position);
+//                                    adapter.notifyDataSetChanged();
+//                                   // Toast.makeText(AddressListActivity.this,"删除成功",Toast.LENGTH_LONG).show();
+//                                }
                             }
-                        })
-                       .setNegativeButton("取消", new DialogInterface.OnClickListener() {
+                        });
+                      builder .setNegativeButton("取消", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
                                 dialog.dismiss();
@@ -84,6 +85,7 @@ public class AddressListActivity<retList> extends ListActivity implements Adapte
             }
             private void showQueryData(){
                 if(list_item!=null){
+
                     list_item.clear();
                 }
             }
